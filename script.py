@@ -1,1 +1,1 @@
-print("Hola, este pipeline funciona correctamente!")
+print("El pipeline se ejecutó después del cambio!")
